@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  background-color: black;
 }
 
 .App-logo {
@@ -13,18 +12,7 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-.margin
-{
-  margin-right: 3rem;
-  height: 25vh;
-  padding: 1rem;
-}
-.margin img{
-  width: 50%;
-  height: 15vh;
-  float: left;
-  margin-right: 1rem;
-}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
