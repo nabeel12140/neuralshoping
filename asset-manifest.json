@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/neuralshoping/static/css/main.e6c13ad2.css",
-    "main.js": "/neuralshoping/static/js/main.d4e2dc7d.js",
+    "main.js": "/neuralshoping/static/js/main.a015d56b.js",
     "static/js/787.34115356.chunk.js": "/neuralshoping/static/js/787.34115356.chunk.js",
     "index.html": "/neuralshoping/index.html",
     "main.e6c13ad2.css.map": "/neuralshoping/static/css/main.e6c13ad2.css.map",
-    "main.d4e2dc7d.js.map": "/neuralshoping/static/js/main.d4e2dc7d.js.map",
+    "main.a015d56b.js.map": "/neuralshoping/static/js/main.a015d56b.js.map",
     "787.34115356.chunk.js.map": "/neuralshoping/static/js/787.34115356.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.d4e2dc7d.js"
+    "static/js/main.a015d56b.js"
   ]
 }
